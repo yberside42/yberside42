@@ -22,13 +22,13 @@ In this two years of learning I managed to create some simple and funny projects
 
 **🟦 [Tkinter Calculator](https://github.com/yberside42/Tkinter-Calculator)** – My first GUI project built with Python and Tkinter.
 
-**🟦 Tkinter Hangman Game** – A small game project featuring a multiplayer mode and user interaction design.
+**🟦 [Tkinter Hangman Game](https://github.com/yberside42/Hangman-Game-with-Multiplayer-)** – A small game project featuring a multiplayer mode and user interaction design.
 
 ### 🟩 My Great Projects (Currently):
 
-**🟩 Expense Tracker (Basic)** – A simple console-based application to manage and categorize expenses.
+**🟩 [Expense Tracker (Basic)](https://github.com/yberside42/Expense-Tracker-Basic-)** – A simple console-based application to manage and categorize expenses.
 
-**🟩 Expense Tracker (CLI Version)** – A complete command-line app featuring menus, validations, logging, reporting and even export options to CSV and JSON.
+**🟩 [Expense Tracker (CLI Version)](https://github.com/yberside42/Expense-Tracker-CLI-)** – A complete command-line app featuring menus, validations, logging, reporting and even export options to CSV and JSON.
 
 **🟩 File Organizer (CLI)** – A big file management tool with preview, undo, and merge options, built for safe batch organization.
 
