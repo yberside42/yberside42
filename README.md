@@ -18,21 +18,23 @@ I'm excited to continue this journey, improving my skills and expanding my knowl
 ---
 In this two years of learning I managed to create some simple and funny projects and more complex and challenging ones, this shows my dedication and natural path to Web Development and Data Analysis:
 
-### Simple Projects: 
-**[Tkinter Calculator](https://github.com/yberside42/Tkinter-Calculator)** – My first GUI project built with Python and Tkinter.
+### 🟦 Simple Projects: 
 
-**Tkinter Hangman Game** – A small game project featuring a multiplayer mode and user interaction design.
+**🟦 [Tkinter Calculator](https://github.com/yberside42/Tkinter-Calculator)** – My first GUI project built with Python and Tkinter.
 
-###  My Great Projects (Currently):
-**Expense Tracker (Basic)** – A simple console-based application to manage and categorize expenses.
+**🟦 Tkinter Hangman Game** – A small game project featuring a multiplayer mode and user interaction design.
 
-**Expense Tracker (CLI Version)** – A complete command-line app featuring menus, validations, logging, reporting and even export options to CSV and JSON.
+### 🟩 My Great Projects (Currently):
 
-**File Organizer (CLI)** – A big file management tool with preview, undo, and merge options, built for safe batch organization.
+**🟩 Expense Tracker (Basic)** – A simple console-based application to manage and categorize expenses.
 
-**Weather App (Django / API)** – A web application built with Django that fetches real-time weather data using external APIs.
+**🟩 Expense Tracker (CLI Version)** – A complete command-line app featuring menus, validations, logging, reporting and even export options to CSV and JSON.
 
-**Expense Tracker (Django)** – A web version of my tracker app using Django, SQLite, and modular architecture.
+**🟩 File Organizer (CLI)** – A big file management tool with preview, undo, and merge options, built for safe batch organization.
+
+**🟩 Weather App (Django / API)** – A web application built with Django that fetches real-time weather data using external APIs.
+
+**🟩 Expense Tracker (Django)** – A web version of my tracker app using Django, SQLite, and modular architecture.
 
 ## Contact (In Progress):
 GitHub:
