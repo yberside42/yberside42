@@ -18,13 +18,13 @@ I'm excited to continue this journey, improving my skills and expanding my knowl
 ---
 In this two years of learning I managed to create some simple and funny projects and more complex and challenging ones, this shows my dedication and natural path to Web Development and Data Analysis:
 
-### 🟦 Simple Projects: 
+### 🔰 Simple Projects: 
 
 **🟦 [Tkinter Calculator](https://github.com/yberside42/Tkinter-Calculator)** – My first GUI project built with Python and Tkinter.
 
 **🟦 [Tkinter Hangman Game](https://github.com/yberside42/Hangman-Game-with-Multiplayer-)** – A small game project featuring a multiplayer mode and user interaction design.
 
-### 🟩 My Great Projects (Currently):
+### ⚜️ My Great Projects (Currently):
 
 **🟩 [Expense Tracker (Basic)](https://github.com/yberside42/Expense-Tracker-Basic-)** – A simple console-based application to manage and categorize expenses.
 
