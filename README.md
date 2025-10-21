@@ -30,7 +30,7 @@ In this two years of learning I managed to create some simple and funny projects
 
 **🟩 [Expense Tracker (CLI Version)](https://github.com/yberside42/Expense-Tracker-CLI-)** – A complete command-line app featuring menus, validations, logging, reporting and even export options to CSV and JSON.
 
-**🟩 File Organizer (CLI)** – A big file management tool with preview, undo, and merge options, built for safe batch organization.
+**🟩 [File Organizer (CLI)](https://github.com/yberside42/File-Organizer-CLI)** – A big file management tool with preview, undo, and merge options, built for safe batch organization.
 
 **🟩 Weather App (Django / API)** – A web application built with Django that fetches real-time weather data using external APIs.
 
