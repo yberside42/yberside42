@@ -37,9 +37,9 @@ In this two years of learning I managed to create some simple and funny projects
 **🟩 Expense Tracker (Django)** – A web version of my tracker app using Django, SQLite, and modular architecture.
 
 ## Contact (In Progress):
-GitHub:
+GitHub: [yberside](https://github.com/yberside42)
 
-Email: 
+Email: yberside@gmail.com  
 
 Linkdin: 
 
