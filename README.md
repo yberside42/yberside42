@@ -34,7 +34,10 @@ In this two years of learning I managed to create some simple and funny projects
 
 **🟩 [Weather App (Django / API)](https://github.com/yberside42/Weather-App)** – A web application built with Django that fetches real-time weather data using external APIs. (https://yberside-weather-app.onrender.com)
 
-**🟩 Expense Tracker (Django)** – A web version of my tracker app using Django, SQLite, and modular architecture.
+**🟩 [Expense Tracker (Django)](https://github.com/yberside42/Expense-Tracker-Web)** – A web version of my tracker app using Django, SQLite, and modular architecture. (https://expense-tracker-web-0dlq.onrender.com)
+
+### Currently working on: 
+**🟦 My own Wikilike page** - A wiki similar to Fandom and Wikipedia for my own worldbuilding projects!!! 
 
 ## Contact (In Progress):
 GitHub: [yberside](https://github.com/yberside42)
