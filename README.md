@@ -24,7 +24,7 @@ In this two years of learning I managed to create some simple and funny projects
 
 **🟦 [Tkinter Hangman Game](https://github.com/yberside42/Hangman-Game-with-Multiplayer-)** – A small game project featuring a multiplayer mode and user interaction design.
 
-### ⚜️ My Great Projects (Currently):
+### ⚜️ My Great Projects:
 
 **🟩 [Expense Tracker (Basic)](https://github.com/yberside42/Expense-Tracker-Basic-)** – A simple console-based application to manage and categorize expenses.
 
